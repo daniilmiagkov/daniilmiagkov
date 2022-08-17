@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img width='100' src='https://user-images.githubusercontent.com/59875675/185095107-89d12bc7-6080-4b48-9bf7-c1f5b62f5cfb.png' />
+</div>
 
-<!--
-**daniilmiagkov/daniilmiagkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a style='color:black' href="https://t.me/daniil_miagkov_l">tg
+  </a>
+  <a href="https://vk.com/daniil_miagkov">vk
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+1. ФИО: Мягков Даниил Львович
+2. Дата рождения: 22.04.2003
+3. Город: Санкт-Петербург
+4. Почта: d.miagkov.work@gmail.com
+5. Используемые языки и технологии: C++, JavaScript, HTML, CSS, React
+6. Нравится делать красивые интерфейсы, люблю разбираться в темах, не бесит исправлять ошибки.
+7. Хобби: длительные покатушки на велосипеде, игра на гитаре
